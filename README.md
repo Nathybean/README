@@ -4,3 +4,4 @@
 ---
 
 ### 📊 Projetos feitos:
+<div align="center">

@@ -14,3 +14,7 @@
 ### 💡 Sobre mim:
 - 🎓 Aprendendo a programar do zero;
 - 💻 Disposta a sempre melhorar.
+
+---
+### 🏆 Linguagem mais usada:
+- Nenhuma
